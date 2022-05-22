@@ -1,8 +1,6 @@
 # Notas
 
-02 - Fundamentos básicos de Node
-
-03 - Primer Pograma en Node
+Primer Pograma en Node
 Tabla de Multiplicar
 
 ```
